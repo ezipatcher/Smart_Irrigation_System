@@ -44,7 +44,7 @@ The system works continuously without manual intervention.
 ## 📂 File Structure
 - `Automatic_Irrigation_System.ino` – Arduino source code  
 - `README.md` – Project documentation  
-- `circuit_diagram.png` – Circuit diagram (if included)  
+- `circuit_diagram.png` – Circuit diagram   
 
 ---
 
